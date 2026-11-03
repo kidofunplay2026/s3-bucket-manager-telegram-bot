@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 
 # The token you got from @botfather when you created the bot
 TELEGRAM_API_TOKEN = "8955533459:AAE9PZjpEGTH3taG_WS6s0ZJN7FHe4OZGNA"
-TELEGRAM_USERNAME = "@Datingearn"
+TELEGRAM_USERNAME = "Datingearn"
 
 # Optional: Custom base URLs for local Bot API server
 # @see https://core.telegram.org/bots/api#using-a-local-bot-api-server
